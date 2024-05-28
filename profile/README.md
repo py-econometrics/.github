@@ -8,3 +8,7 @@ randomization inference, multiple testing corrections via Bonferroni & Romano-Wo
 - [wildboottest](https://github.com/py-econometrics/wildboottest) implements multiple fast wild cluster bootstrap algorithms as developed in [Roodman et al
 (2019)](https://econpapers.repec.org/paper/qedwpaper/1406.htm) and [MacKinnon, Nielsen & Webb(2022)](https://www.econ.queensu.ca/sites/econ.queensu.ca/files/wpaper/qed_wp_1485.pdf).
 
+- [fastmatch](https://github.com/py-econometrics/fastmatch) implements fast matching estimators for causal inference that uses [faiss](https://github.com/facebookresearch/faiss) for nearest neighbours.
+
+- [gmm](https://github.com/py-econometrics/gmm) helps you minimize generalized methods of moments (GMM) objective functions.  
+
