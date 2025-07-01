@@ -12,5 +12,7 @@ randomization inference, multiple testing corrections via Bonferroni & Romano-Wo
 
 - [fastmatch](https://github.com/py-econometrics/fastmatch) implements fast matching estimators for causal inference that uses [faiss](https://github.com/facebookresearch/faiss) for nearest neighbours.
 
-- [gmm](https://github.com/py-econometrics/gmm) helps you minimize generalized methods of moments (GMM) objective functions.  
+- [gmm](https://github.com/py-econometrics/gmm) helps you minimize generalized methods of moments (GMM) objective functions.
+
+- [jaxonometrics](https://github.com/py-econometrics/jaxonometrics) Library with performant implementations of standard econometrics routines in the JAX ecosystem (for econometrics on the GPU). 
 
